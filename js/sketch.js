@@ -3,14 +3,14 @@ let uni, textures, number;
 
 function preload() {
 	textures = {
-		sun: loadImage('/assets/sun.jpg'),
-		mercury: loadImage('/assets/mercury.jpg'),
-		venus: loadImage('/assets/venus.jpg'),
-		earth: loadImage('/assets/earth.jpg'),
-		mars: loadImage('/assets/mars.jpg'),
-		jupiter: loadImage('/assets/jupiter.jpg'),
-		pluto: loadImage('/assets/pluto.jpg'),
-		background: loadImage('/assets/hudf.jpg')
+		sun: loadImage('009-universe/assets/sun.jpg'),
+		mercury: loadImage('009-universe/assets/mercury.jpg'),
+		venus: loadImage('009-universe/assets/venus.jpg'),
+		earth: loadImage('009-universe/assets/earth.jpg'),
+		mars: loadImage('009-universe/assets/mars.jpg'),
+		jupiter: loadImage('009-universe/assets/jupiter.jpg'),
+		pluto: loadImage('009-universe/assets/pluto.jpg'),
+		background: loadImage('009-universe/assets/hudf.jpg')
 	};
 }
 
